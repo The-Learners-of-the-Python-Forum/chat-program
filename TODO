@@ -1,0 +1,34 @@
+"*" indicates a group of tasks
+">" indicates an uncompleted task
+
+* Write clients
+    passive console
+    Tkinter
+    > pygame
+    > PyGTK
+    > curses
+    > PyQT
+    
+
+* Add commands
+    msg: standard talking
+        what: thing said
+        to: (optional) target of aside
+    describe: shows an action
+        what: the action
+    easter: CLASSIFIED
+
+* Add utility
+    Passwords
+    Registering
+    > Encryption
+    > Persistent DB
+    > Permissions/modes
+
+* Add modes
+    > See README, paragraph 2
+
+* Add /names type functionality
+    > names command
+    > join/leave notifications
+    
