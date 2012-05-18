@@ -1,0 +1,1 @@
+print "Stop doing the beginners work for them"
