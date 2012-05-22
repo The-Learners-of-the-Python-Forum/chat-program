@@ -28,6 +28,14 @@ General decisions to be made:
     How to handle user authentication.
     How to store user information.
     Generic features: Status' (Op, Mod, User, etc)
+                          There are several modes that can be set on a user:
+                            o = Owner, all privileges
+                            a = Admin, most privileges (except for changing Admin flags)
+                            m = Moderator, most Admin privileges except for changing Admin and Banned flags
+                            t = Trusted, just a mark of respect
+                            q = Quiet, can only speak in asides
+                            s = Silent, cannot talk at all
+                            b = Banned.
                       Banning capability (By Username, IP Address, etc)
                       ?? Add More Here ??
     Determine how many and what kinds of back ends (Telnet, SSH, HTTP, etc)
