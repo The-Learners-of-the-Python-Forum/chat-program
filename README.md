@@ -12,7 +12,7 @@ the Python programming language and various third party packages.
 
 
 The Python version we will use for development is 2.7.3.  To begin with, some members will be using 
-Twisted (http://www.twistedmatrix.com/), an event driven networkign engine.  Others will choose to 
+Twisted (http://www.twistedmatrix.com/), an event driven networking engine.  Others will choose to 
 write their own networking code using the included sockets module.
 
 
